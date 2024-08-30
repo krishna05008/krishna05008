@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mein.krishna.hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mein.krishna.hu" height="30" width="40" /></a>
-  <a href="https://www.threads.net/@mein.krishna.hu?xmt=AQGzEAzoFsrEsdLgwrYMHIC2joUbIsHkZAquSH_dZQ3q1F8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Threads_%28app%29_logo.svg/1024px-Threads_%28app%29_logo.svg.png?20230705004747" alt="mein.krishna.hu" height="30" width="40" /></a>
+  <a href="https://www.threads.net/@mein.krishna.hu?xmt=AQGzEAzoFsrEsdLgwrYMHIC2joUbIsHkZAquSH_dZQ3q1F8" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/threads.svg" alt="mein.krishna.hu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
