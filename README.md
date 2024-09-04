@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kp05008@gmail.com**
 
-- ⚡ Fun fact **I am not an introvert but an ambivert.**
+- ⚡ Fun fact **Coding is not fun untill you decide.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
